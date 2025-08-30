@@ -26,7 +26,7 @@ const shahin = {
 };
 ```
 
-<div style="display: 'flex'; align-items: 'center'; justify-content: ''center; gap: '10px';">
+<div align="center">
 ### 📊 GitHub Stats
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaspianDiv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -34,8 +34,6 @@ const shahin = {
 ### 📊 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaspianDiv&layout=compact&theme=tokyonight)
-</div>
-<div align="center">
   
 ### 💻 My Skills Distribution
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
