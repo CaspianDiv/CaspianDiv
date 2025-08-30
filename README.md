@@ -141,5 +141,7 @@ const shahin = {
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+![GitHub Followers](https://img.shields.io/github/followers/CaspianDiv?style=for-the-badge&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=CaspianDiv&style=for-the-badge&color=blueviolet)
+
 </div>
