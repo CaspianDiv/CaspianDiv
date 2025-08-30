@@ -133,7 +133,12 @@ const shahin = {
   
 ### 💡 Fun Fact
 > "Code is like humor. When you have to explain it, it's bad." - Cory House
-![GitHub Followers]<img src="https://img.shields.io/github/followers/CaspianDiv?label=Profile%20Views&style=for-the-badge"/>
+>
+> 
+<div class="align-center">
+  ![GitHub Followers]<img src="https://img.shields.io/github/followers/CaspianDiv?label=Profile%20Views&style=for-the-badge"/>
+  ![Profile Views]<img src="https://img.shields.io/github/followers/CaspianDiv?label=Profile%20Views&style=for-the-badge&color=blueviolet&logo=github"/>
+</div>
 
 **Thank you for visiting my profile! Let's build something amazing together! 🚀**
 
