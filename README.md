@@ -135,9 +135,6 @@ const shahin = {
 > "Code is like humor. When you have to explain it, it's bad." - Cory House
 >
 > 
-<div class="align-center">
-  <img src="https://img.shields.io/github/followers/CaspianDiv?label=Profile%20Views&style=for-the-badge"/>
-</div>
 
 <div class="align-center">
   <img src="https://img.shields.io/github/followers/CaspianDiv?label=Profile%20Views&style=for-the-badge&color=blueviolet&logo=github"/>
