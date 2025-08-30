@@ -136,8 +136,11 @@ const shahin = {
 >
 > 
 <div class="align-center">
-  ![GitHub Followers]<img src="https://img.shields.io/github/followers/CaspianDiv?label=Profile%20Views&style=for-the-badge"/>
-  ![Profile Views]<img src="https://img.shields.io/github/followers/CaspianDiv?label=Profile%20Views&style=for-the-badge&color=blueviolet&logo=github"/>
+  <img src="https://img.shields.io/github/followers/CaspianDiv?label=Profile%20Views&style=for-the-badge"/>
+</div>
+
+<div class="align-center">
+  <img src="https://img.shields.io/github/followers/CaspianDiv?label=Profile%20Views&style=for-the-badge&color=blueviolet&logo=github"/>
 </div>
 
 **Thank you for visiting my profile! Let's build something amazing together! 🚀**
