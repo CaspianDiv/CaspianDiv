@@ -55,11 +55,11 @@ const shahin = {
 <div align="center">
 
 ### 💻 Languages
-![CSS](https://img.shields.io/badge/CSS-50%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-40%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-35%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-12%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-5%25-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![CSS3]([https://img.shields.io/badge/CSS-50%25-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS-239120?style=flat&logo=css3&logoColor=white))
+![JavaScript]([https://img.shields.io/badge/JavaScript-40%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black))
+![React]([https://img.shields.io/badge/React-35%25-61DAFB?style=for-the-badge&logo=react&logoColor=black](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black))
+![HTML5]([https://img.shields.io/badge/HTML5-12%25-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white))
+![jQuery]([https://img.shields.io/badge/jQuery-5%25-0769AD?style=for-the-badge&logo=jquery&logoColor=white](https://img.shields.io/badge/JQuery-0769AD?style=flat&logo=jquery&logoColor=white))
 
 ### 🚀 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
