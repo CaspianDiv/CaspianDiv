@@ -141,7 +141,6 @@ const shahin = {
 </div>
 
 <div align="center">
-![GitHub Followers](https://img.shields.io/github/followers/CaspianDiv?style=for-the-badge&logo=github)
-![Profile Views](https://komarev.com/ghpvc/?username=CaspianDiv&style=for-the-badge&color=blueviolet)
-
+  ![GitHub Followers]<img src="https://img.shields.io/github/followers/CaspianDiv?style=for-the-badge&logo=github"/> 
+  ![Profile Views]<img src="https://komarev.com/ghpvc/?username=CaspianDiv&style=for-the-badge&color=blueviolet"/> 
 </div>
