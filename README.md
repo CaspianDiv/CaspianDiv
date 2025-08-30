@@ -31,11 +31,11 @@ const shahin = {
   
 ### 📊 GitHub Stats
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaspianDiv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaspianDiv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&v=3"/>
 
 ### 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaspianDiv&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaspianDiv&layout=compact&theme=tokyonight&cache_seconds=1800&v=3)
 </div>
   
 ### 💻 My Skills Distribution
@@ -100,7 +100,7 @@ const shahin = {
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaspianDiv&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaspianDiv&theme=tokyo-night&hide_border=true&cache_seconds=1800&v=3" width="100%"/>
 </div>
 
 <div align="center">
@@ -146,7 +146,7 @@ const shahin = {
 > 
 
 <div class="align-center">
-  <img src="https://img.shields.io/github/followers/CaspianDiv?label=Profile%20Views&style=for-the-badge&color=blueviolet&logo=github"/>
+  <img src="https://img.shields.io/github/followers/CaspianDiv?label=Profile%20Views&style=for-the-badge&color=blueviolet&logo=github&cache_seconds=1800&v=3"/>
 </div>
 
 **Thank you for visiting my profile! Let's build something amazing together! 🚀**
@@ -154,5 +154,5 @@ const shahin = {
 </div>
 
 <div align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&cache_seconds=1800&v=3"/>
 </div>
