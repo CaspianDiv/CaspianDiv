@@ -107,10 +107,10 @@ const shahin = {
   
 ### 🏆 Profile Stats
   
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaspianDiv&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaspianDiv&theme=tokyonight&cache_seconds=1800&v=3" width="100%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CaspianDiv&theme=tokyonight" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CaspianDiv&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CaspianDiv&theme=tokyonight&cache_seconds=1800&v=3" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CaspianDiv&theme=tokyonight&cache_seconds=1800&v=3" width="48%"/>
 
 </div>
 
