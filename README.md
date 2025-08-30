@@ -27,7 +27,7 @@ const shahin = {
 ```
 
 <div align="center">
-
+<div align="start">
   
 ### 📊 GitHub Stats
   
@@ -36,6 +36,7 @@ const shahin = {
 ### 📊 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaspianDiv&layout=compact&theme=tokyonight)
+</div>
   
 ### 💻 My Skills Distribution
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
