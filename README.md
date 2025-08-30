@@ -15,7 +15,7 @@ const shahin = {
     name: "Shahin Jafarzadeh",
     role: "Full-Stack Developer",
     location: "Azerbaijan 🇦🇿",
-    currentlyLearning: ["Angular", "TypeScript", "Node.js"],
+    currentlyLearning: ["Angular", "Express.js", "MangoDB" , "Mangoose" , "MySql" , "TypeScript", "Node.js"],
     passions: ["Web Development", "Backend Development", "Problem Solving"],
     funFact: "I love coding, coffee, and creating innovative solutions! ⚡",
     currentFocus: "Building scalable web applications",
