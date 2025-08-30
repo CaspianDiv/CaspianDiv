@@ -12,7 +12,10 @@
 
 ```javascript
 const shahin = {
-    name: "Shahin Jafarzadeh",
+    name: "Shahin",
+    surname: "Jafarzadeh",
+    age: 23,
+    date: "16.05.2002",
     role: "Full-Stack Developer",
     location: "Azerbaijan 🇦🇿",
     currentlyLearning: ["Angular", "Express.js", "MangoDB" , "Mangoose" , "MySql" , "TypeScript", "Node.js"],
