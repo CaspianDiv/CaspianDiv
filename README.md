@@ -26,18 +26,14 @@ const shahin = {
 };
 ```
 
-<div align="center">
-  
 ### 📊 GitHub Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaspianDiv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 ### 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaspianDiv&layout=compact&theme=tokyonight)
-
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CaspianDiv&theme=tokyonight)
-
-
+<div align="center">
+  
 ### 💻 My Skills Distribution
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
