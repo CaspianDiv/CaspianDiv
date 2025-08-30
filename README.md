@@ -109,7 +109,7 @@ const shahin = {
 
 <div align="center">
   
-📚 **Learning:** Angular, TypeScript, Node.js  
+📚 **Learning:** Angular, TypeScript, Node.js , Express.js , Pyhton , PhP , Laravel , Vue.js , Next.js , MySql , MangoDB  
 💻 **Working on:** Full-stack web applications  
 🚀 **Building:** Scalable and efficient solutions  
 🔍 **Exploring:** Latest development technologies  
