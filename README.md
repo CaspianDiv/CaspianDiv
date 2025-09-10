@@ -18,7 +18,7 @@ let shahin = {
     date: "16.05.2002",
     role: "Full-Stack Developer",
     location: "Azerbaijan 🇦🇿",
-    currentlyLearning: ["Angular", "Express.js", "MangoDB" , "Mangoose" , "MySql" , "TypeScript", "Node.js"],
+    currentlyLearning: ["Angular", "Express.js", "MangoDB" , "Mangoose" , "MySql" , Vue.js , PhP , Pyhton "TypeScript", "Node.js"],
     passions: ["Web Development", "Backend Development", "Problem Solving"],
     funFact: "I love coding, coffee, and creating innovative solutions! ⚡",
     currentFocus: "Building scalable web applications",
