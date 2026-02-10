@@ -30,12 +30,17 @@ let shahin = {
 <div align="start">
   
 ### 📊 GitHub Stats
-  
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CaspianDiv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+![Followers](https://img.shields.io/github/followers/CaspianDiv?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=6366F1)
+![Stars](https://img.shields.io/github/stars/CaspianDiv?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=6366F1)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-Check%20GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CaspianDiv&layout=compact&theme=tokyonight)
+![JavaScript](https://img.shields.io/badge/JavaScript-Most%20Used-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   
 ### 💻 My Skills Distribution
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -99,17 +104,17 @@ let shahin = {
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaspianDiv&theme=tokyo-night&hide_border=true&cache_seconds=1800&v=3" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaspianDiv&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
 <div align="center">
   
 ### 🏆 Profile Stats
   
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaspianDiv&theme=tokyonight&cache_seconds=1800&v=3" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaspianDiv&theme=tokyonight" width="100%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CaspianDiv&theme=tokyonight&cache_seconds=1800&v=3" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CaspianDiv&theme=tokyonight&cache_seconds=1800&v=3" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CaspianDiv&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CaspianDiv&theme=tokyonight" width="48%"/>
 
 </div>
 
@@ -141,17 +146,13 @@ let shahin = {
   
 ### 💡 Fun Fact
 > "Code is like humor. When you have to explain it, it's bad." - Cory House
->
-> 
 
-<div class="align-center">
-  <img src="https://img.shields.io/github/followers/CaspianDiv?label=Profile%20Views&style=for-the-badge&color=blueviolet&logo=github&cache_seconds=1800&v=3"/>
-</div>
+![Followers](https://img.shields.io/github/followers/CaspianDiv?label=Followers&style=for-the-badge&color=blueviolet&logo=github)
 
 **Thank you for visiting my profile! Let's build something amazing together! 🚀**
 
 </div>
 
 <div align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&cache_seconds=1800&v=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </div>
