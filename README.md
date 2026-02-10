@@ -31,11 +31,11 @@ let shahin = {
   
 ### 📊 GitHub Stats
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaspianDiv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&v=3"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CaspianDiv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 ### 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaspianDiv&layout=compact&theme=tokyonight&cache_seconds=1800&v=3)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CaspianDiv&layout=compact&theme=tokyonight)
   
 ### 💻 My Skills Distribution
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
