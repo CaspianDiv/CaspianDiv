@@ -14,7 +14,7 @@
 let shahin = {
     name: "Shahin",
     surname: "Jafarzadeh",
-    age: 23,
+    age: 24,
     date: "16.05.2002",
     role: "Full-Stack Developer",
     location: "Azerbaijan 🇦🇿",
